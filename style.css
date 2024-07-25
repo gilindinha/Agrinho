@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabeçalho{
+    background-color: #bece7a;
+    color: rgb(255, 255, 255);
+    display: flex ;
+    justify-content: space-around;
+}
+
+.cabeçalho-imagem{
+    width:50%;
+    margin: 40px;
+}
+
+.cabeçalho-titulo{
+    color:rgb(253, 253, 253);
+}
+
+.tamanho-imagem{
+    width: 16%;
+    margin: 40px;
+}
+
+.estudantes{
+    width: 20%;
+}
+
+footer{
+    background-color:#798ad3 ;
+    color: white;
+}
