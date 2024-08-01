@@ -4,31 +4,48 @@
 }
 
 .cabeçalho{
-    background-color: #bece7a;
+    background-color: #86a88b;
     color: rgb(255, 255, 255);
     display: flex ;
     justify-content: space-around;
 }
 
 .cabeçalho-imagem{
-    width:50%;
+    width: 200px;;
     margin: 40px;
 }
 
-.cabeçalho-titulo{
-    color:rgb(253, 253, 253);
+.ivaiporã-titulo{
+color: rgb(109, 110, 39);
 }
 
-.tamanho-imagem{
-    width: 16%;
+
+.tamanho-imagem1{
+    width: 300px;
     margin: 40px;
 }
 
-.estudantes{
-    width: 20%;
+.tamanho-imagem2{
+    width: 300px;
+    margin: 40px;
+}
+
+.tamanho-imagem3{
+    width: 300px;
+    margin: 40px;
+}
+
+.tamanho-imagem4{
+    width: 300px;
+    margin: 40px;
 }
 
 footer{
-    background-color:#798ad3 ;
+    background-color:#86a88b ;
     color: white;
+}
+
+.footer-img{
+    width: 200px;;
+    margin: 80px;;
 }
